@@ -1,0 +1,8 @@
+# Python 缓存
+__pycache__/
+
+# VS Code 配置
+.vscode/
+
+# 构建输出
+build/
